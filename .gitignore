@@ -1,0 +1,43 @@
+*.log
+/venv
+/test
+/__pycache__
+*.pdf
+.DS_Store
+.env
+social_score_ai.txt
+transcript_summary.txt
+*.sh
+*.json
+/enhanced_images
+nohup.out
+
+# Documentation files (internal notes)
+*.md
+!README.md
+!GIT_PR_WORKFLOW_GUIDE.md
+
+# Test files
+test_*.py
+test_*.html
+test_*.jpg
+quick_test.py
+check_*.py
+validate_*.py
+verify_*.py
+view_logs.py
+
+# Backup files
+*_backup.py
+*_updated.py
+
+# Temporary files
+temp_*
+*.jpeg
+env_example.txt
+*.backup*
+valyd_ec2/
+IMG_0018.heic
+Valyd Logo.png
+WHITE BACKGROUND PASSPORT.png
+WHITE_BACKGROUND_PASSPORT_optimized_200.png
